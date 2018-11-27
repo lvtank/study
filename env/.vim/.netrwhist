@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/work/ecc4bit/UGW-6.1.1/package/feeds/ltq_feeds_uboot/open_uboot/config'
+let g:netrw_dirhist_2='/home/tank/sdk2_er7/arm-yocto-setup/build/tmp-eglibc/work/x86_64-linux/perl-native/5.14.3-r0/perl-5.14.3/.config'
+let g:netrw_dirhist_3='/home/tank/sdk2_er7/arm-yocto-setup/yocto/meta-intelce-arm/recipes-gateway/tr69/files'
+let g:netrw_dirhist_4='/home/tank/cgm_sw_r2.0er8/yocto/meta-intelce-atom-gateway'
+let g:netrw_dirhist_5='/home/tank/puma/PUMA7_BIOS/CgmPlatPkg/Override/ChvTbltDevicePkg/Library/PlatformPolicyUpdateLib/Pei'
+let g:netrw_dirhist_6='/home/tank/puma7/atom-er11/build/tmp/work/cougarmountain-poky-linux/core-image-cougarmountain/1.0-r0/rootfs/etc/init.d'
+let g:netrw_dirhist_7='/home/tank/puma7/atom-er2/yocto/meta-skeleton/recipes-skeleton/useradd/useradd-example'
+let g:netrw_dirhist_8='/home/tank/puma7/atom-er2/yocto/meta-cougarmountain/recipes-intelce/appcpu-infr'
+let g:netrw_dirhist_9='/home/tank/puma7/rdkb-er3/build-puma7-atom/conf'
